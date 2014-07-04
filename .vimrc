@@ -41,7 +41,7 @@ if has("gui_running")
     colorscheme default
     set background=light
 elseif &t_Co == 256
-    colorscheme wombat256mod
+    colorscheme wombat256
 endif
 
 set pastetoggle=<F2>
